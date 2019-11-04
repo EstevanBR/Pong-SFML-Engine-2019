@@ -1,0 +1,145 @@
+[
+{
+  "directory": "/home/estevan/Documents/Code/C++/Pong/build",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-7   -I../SFML-Engine-2019  -g   -o CMakeFiles/Pong.dir/main.cpp.o -c /home/estevan/Documents/Code/C++/Pong/main.cpp",
+  "file": "/home/estevan/Documents/Code/C++/Pong/main.cpp"
+},
+
+{
+  "directory": "/home/estevan/Documents/Code/C++/Pong/build",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-7   -I../SFML-Engine-2019  -g   -o CMakeFiles/Pong.dir/PongGame.cpp.o -c /home/estevan/Documents/Code/C++/Pong/PongGame.cpp",
+  "file": "/home/estevan/Documents/Code/C++/Pong/PongGame.cpp"
+},
+
+{
+  "directory": "/home/estevan/Documents/Code/C++/Pong/build",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-7   -I../SFML-Engine-2019  -g   -o CMakeFiles/Pong.dir/Ball.cpp.o -c /home/estevan/Documents/Code/C++/Pong/Ball.cpp",
+  "file": "/home/estevan/Documents/Code/C++/Pong/Ball.cpp"
+},
+
+{
+  "directory": "/home/estevan/Documents/Code/C++/Pong/build",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-7   -I../SFML-Engine-2019  -g   -o CMakeFiles/Pong.dir/BallGraphicsComponent.cpp.o -c /home/estevan/Documents/Code/C++/Pong/BallGraphicsComponent.cpp",
+  "file": "/home/estevan/Documents/Code/C++/Pong/BallGraphicsComponent.cpp"
+},
+
+{
+  "directory": "/home/estevan/Documents/Code/C++/Pong/build",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-7   -I../SFML-Engine-2019  -g   -o CMakeFiles/Pong.dir/BallPhysicsComponent.cpp.o -c /home/estevan/Documents/Code/C++/Pong/BallPhysicsComponent.cpp",
+  "file": "/home/estevan/Documents/Code/C++/Pong/BallPhysicsComponent.cpp"
+},
+
+{
+  "directory": "/home/estevan/Documents/Code/C++/Pong/build",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-7   -I../SFML-Engine-2019  -g   -o CMakeFiles/Pong.dir/Paddle.cpp.o -c /home/estevan/Documents/Code/C++/Pong/Paddle.cpp",
+  "file": "/home/estevan/Documents/Code/C++/Pong/Paddle.cpp"
+},
+
+{
+  "directory": "/home/estevan/Documents/Code/C++/Pong/build",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-7   -I../SFML-Engine-2019  -g   -o CMakeFiles/Pong.dir/PaddlePhysicsComponent.cpp.o -c /home/estevan/Documents/Code/C++/Pong/PaddlePhysicsComponent.cpp",
+  "file": "/home/estevan/Documents/Code/C++/Pong/PaddlePhysicsComponent.cpp"
+},
+
+{
+  "directory": "/home/estevan/Documents/Code/C++/Pong/build",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-7   -I../SFML-Engine-2019  -g   -o CMakeFiles/Pong.dir/PaddleGraphicsComponent.cpp.o -c /home/estevan/Documents/Code/C++/Pong/PaddleGraphicsComponent.cpp",
+  "file": "/home/estevan/Documents/Code/C++/Pong/PaddleGraphicsComponent.cpp"
+},
+
+{
+  "directory": "/home/estevan/Documents/Code/C++/Pong/build",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-7   -I../SFML-Engine-2019  -g   -o CMakeFiles/Pong.dir/PaddleInputComponent.cpp.o -c /home/estevan/Documents/Code/C++/Pong/PaddleInputComponent.cpp",
+  "file": "/home/estevan/Documents/Code/C++/Pong/PaddleInputComponent.cpp"
+},
+
+{
+  "directory": "/home/estevan/Documents/Code/C++/Pong/build",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-7   -I../SFML-Engine-2019  -g   -std=gnu++1z -o SFML-Engine-2019/CMakeFiles/SFML-Engine.dir/Node.cpp.o -c /home/estevan/Documents/Code/C++/Pong/SFML-Engine-2019/Node.cpp",
+  "file": "/home/estevan/Documents/Code/C++/Pong/SFML-Engine-2019/Node.cpp"
+},
+
+{
+  "directory": "/home/estevan/Documents/Code/C++/Pong/build",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-7   -I../SFML-Engine-2019  -g   -std=gnu++1z -o SFML-Engine-2019/CMakeFiles/SFML-Engine.dir/Node2D.cpp.o -c /home/estevan/Documents/Code/C++/Pong/SFML-Engine-2019/Node2D.cpp",
+  "file": "/home/estevan/Documents/Code/C++/Pong/SFML-Engine-2019/Node2D.cpp"
+},
+
+{
+  "directory": "/home/estevan/Documents/Code/C++/Pong/build",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-7   -I../SFML-Engine-2019  -g   -std=gnu++1z -o SFML-Engine-2019/CMakeFiles/SFML-Engine.dir/Collection.cpp.o -c /home/estevan/Documents/Code/C++/Pong/SFML-Engine-2019/Collection.cpp",
+  "file": "/home/estevan/Documents/Code/C++/Pong/SFML-Engine-2019/Collection.cpp"
+},
+
+{
+  "directory": "/home/estevan/Documents/Code/C++/Pong/build",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-7   -I../SFML-Engine-2019  -g   -std=gnu++1z -o SFML-Engine-2019/CMakeFiles/SFML-Engine.dir/RectCollisionShape.cpp.o -c /home/estevan/Documents/Code/C++/Pong/SFML-Engine-2019/RectCollisionShape.cpp",
+  "file": "/home/estevan/Documents/Code/C++/Pong/SFML-Engine-2019/RectCollisionShape.cpp"
+},
+
+{
+  "directory": "/home/estevan/Documents/Code/C++/Pong/build",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-7   -I../SFML-Engine-2019  -g   -std=gnu++1z -o SFML-Engine-2019/CMakeFiles/SFML-Engine.dir/CircleCollisionShape.cpp.o -c /home/estevan/Documents/Code/C++/Pong/SFML-Engine-2019/CircleCollisionShape.cpp",
+  "file": "/home/estevan/Documents/Code/C++/Pong/SFML-Engine-2019/CircleCollisionShape.cpp"
+},
+
+{
+  "directory": "/home/estevan/Documents/Code/C++/Pong/build",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-7   -I../SFML-Engine-2019  -g   -std=gnu++1z -o SFML-Engine-2019/CMakeFiles/SFML-Engine.dir/CollisionShape.cpp.o -c /home/estevan/Documents/Code/C++/Pong/SFML-Engine-2019/CollisionShape.cpp",
+  "file": "/home/estevan/Documents/Code/C++/Pong/SFML-Engine-2019/CollisionShape.cpp"
+},
+
+{
+  "directory": "/home/estevan/Documents/Code/C++/Pong/build",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-7   -I../SFML-Engine-2019  -g   -std=gnu++1z -o SFML-Engine-2019/CMakeFiles/SFML-Engine.dir/Component.cpp.o -c /home/estevan/Documents/Code/C++/Pong/SFML-Engine-2019/Component.cpp",
+  "file": "/home/estevan/Documents/Code/C++/Pong/SFML-Engine-2019/Component.cpp"
+},
+
+{
+  "directory": "/home/estevan/Documents/Code/C++/Pong/build",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-7   -I../SFML-Engine-2019  -g   -std=gnu++1z -o SFML-Engine-2019/CMakeFiles/SFML-Engine.dir/PhysicsComponent.cpp.o -c /home/estevan/Documents/Code/C++/Pong/SFML-Engine-2019/PhysicsComponent.cpp",
+  "file": "/home/estevan/Documents/Code/C++/Pong/SFML-Engine-2019/PhysicsComponent.cpp"
+},
+
+{
+  "directory": "/home/estevan/Documents/Code/C++/Pong/build",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-7   -I../SFML-Engine-2019  -g   -std=gnu++1z -o SFML-Engine-2019/CMakeFiles/SFML-Engine.dir/GraphicsComponent.cpp.o -c /home/estevan/Documents/Code/C++/Pong/SFML-Engine-2019/GraphicsComponent.cpp",
+  "file": "/home/estevan/Documents/Code/C++/Pong/SFML-Engine-2019/GraphicsComponent.cpp"
+},
+
+{
+  "directory": "/home/estevan/Documents/Code/C++/Pong/build",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-7   -I../SFML-Engine-2019  -g   -std=gnu++1z -o SFML-Engine-2019/CMakeFiles/SFML-Engine.dir/Physics.cpp.o -c /home/estevan/Documents/Code/C++/Pong/SFML-Engine-2019/Physics.cpp",
+  "file": "/home/estevan/Documents/Code/C++/Pong/SFML-Engine-2019/Physics.cpp"
+},
+
+{
+  "directory": "/home/estevan/Documents/Code/C++/Pong/build",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-7   -I../SFML-Engine-2019  -g   -std=gnu++1z -o SFML-Engine-2019/CMakeFiles/SFML-Engine.dir/Graphics.cpp.o -c /home/estevan/Documents/Code/C++/Pong/SFML-Engine-2019/Graphics.cpp",
+  "file": "/home/estevan/Documents/Code/C++/Pong/SFML-Engine-2019/Graphics.cpp"
+},
+
+{
+  "directory": "/home/estevan/Documents/Code/C++/Pong/build",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-7   -I../SFML-Engine-2019  -g   -std=gnu++1z -o SFML-Engine-2019/CMakeFiles/SFML-Engine.dir/Input.cpp.o -c /home/estevan/Documents/Code/C++/Pong/SFML-Engine-2019/Input.cpp",
+  "file": "/home/estevan/Documents/Code/C++/Pong/SFML-Engine-2019/Input.cpp"
+},
+
+{
+  "directory": "/home/estevan/Documents/Code/C++/Pong/build",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-7   -I../SFML-Engine-2019  -g   -std=gnu++1z -o SFML-Engine-2019/CMakeFiles/SFML-Engine.dir/Game.cpp.o -c /home/estevan/Documents/Code/C++/Pong/SFML-Engine-2019/Game.cpp",
+  "file": "/home/estevan/Documents/Code/C++/Pong/SFML-Engine-2019/Game.cpp"
+},
+
+{
+  "directory": "/home/estevan/Documents/Code/C++/Pong/build",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-7   -I../SFML-Engine-2019  -g   -std=gnu++1z -o SFML-Engine-2019/CMakeFiles/SFML-Engine.dir/SpriteStack.cpp.o -c /home/estevan/Documents/Code/C++/Pong/SFML-Engine-2019/SpriteStack.cpp",
+  "file": "/home/estevan/Documents/Code/C++/Pong/SFML-Engine-2019/SpriteStack.cpp"
+},
+
+{
+  "directory": "/home/estevan/Documents/Code/C++/Pong/build",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-7   -I../SFML-Engine-2019  -g   -std=gnu++1z -o SFML-Engine-2019/CMakeFiles/SFML-Engine.dir/InputComponent.cpp.o -c /home/estevan/Documents/Code/C++/Pong/SFML-Engine-2019/InputComponent.cpp",
+  "file": "/home/estevan/Documents/Code/C++/Pong/SFML-Engine-2019/InputComponent.cpp"
+}
+]

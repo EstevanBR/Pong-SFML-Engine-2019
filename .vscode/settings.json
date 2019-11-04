@@ -1,0 +1,12 @@
+{
+    "C_Cpp.default.configurationProvider": "vector-of-bool.cmake-tools",
+    "files.associations": {
+        "vector": "cpp",
+        "exception": "cpp",
+        "functional": "cpp",
+        "random": "cpp",
+        "iosfwd": "cpp",
+        "type_traits": "cpp",
+        "utility": "cpp"
+    }
+}
